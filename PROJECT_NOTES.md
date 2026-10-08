@@ -1,0 +1,1 @@
+Added features: hypothesis testing, predictive model, five evaluation metrics, six visuals, executive dashboard, 90-day implementation plan, portfolio page, reproducible source script, raw/cleaned separation.
